@@ -1,5 +1,7 @@
 **Improving Secure Coding Practices: A Practical Guide for Developers**
 
+Worked on by Karen Mai and James Ma
+
 As Software Engineers, we need to value and consider computer security whenever we write code because we want to build applications that will not be easily break due to malicious practices. Often before approving a pull request, we should all review a few items that ensure secure best practices. In this project, we will delve into secure coding practices. The main deliverable for this project will be through a github repository where we will keep subfolders that will each explain an aspect of good coding practice. 
 
 **What we would like in the main README.md (here)**
